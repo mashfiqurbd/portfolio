@@ -38,7 +38,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <p className="text-xs font-bold text-slate-400 uppercase tracking-widest mb-1">Email Me</p>
-                  <p className="text-lg font-bold text-slate-900 dark:text-white group-hover:text-primary transition-colors">hello@mashfiqur.bd</p>
+                  <p className="text-lg font-bold text-slate-900 dark:text-white group-hover:text-primary transition-colors">mashfiqur2020@gmail.com</p>
                 </div>
               </div>
               <div className="flex items-center gap-6 group">
